@@ -1,14 +1,1 @@
-{
-	"entityMap": {},
-	"blocks": [
-		{
-			"key": "f5t11",
-			"text": "Information: 0ef19988-826c-cba9-0e7d-3681abdaa3d0.news-default",
-			"type": "unstyled",
-			"depth": 0,
-			"inlineStyleRanges": [],
-			"entityRanges": [],
-			"data": {}
-		}
-	]
-}
+{"entityMap":{"0":{"type":"IMAGE","mutability":"MUTABLE","data":{"src":"https://res.cloudinary.com/q6a/image/upload/v1530080236/black.png","height":"auto","width":"auto","alt":"black"}},"1":{"type":"IMAGE","mutability":"MUTABLE","data":{"src":"https://res.cloudinary.com/q6a/image/upload/v1528799531/sample.jpg","height":"auto","width":"auto","alt":""}}},"blocks":[{"key":"f5t11","text":"Information: 0ef19988-826c-cba9-0e7d-3681abdaa3d0.news-default","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"8s5n2","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"1n4t2","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"fdo16","text":" ","type":"atomic","depth":0,"inlineStyleRanges":[],"entityRanges":[{"offset":0,"length":1,"key":0}],"data":{}},{"key":"6n3rl","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"90d50","text":" ","type":"atomic","depth":0,"inlineStyleRanges":[],"entityRanges":[{"offset":0,"length":1,"key":1}],"data":{}},{"key":"ee8ap","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}]}
